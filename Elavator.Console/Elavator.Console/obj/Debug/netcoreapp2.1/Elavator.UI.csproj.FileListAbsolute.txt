@@ -1,0 +1,11 @@
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\bin\Debug\netcoreapp2.1\Elavator.UI.deps.json
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\bin\Debug\netcoreapp2.1\Elavator.UI.runtimeconfig.json
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\bin\Debug\netcoreapp2.1\Elavator.UI.runtimeconfig.dev.json
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\bin\Debug\netcoreapp2.1\Elavator.UI.dll
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\bin\Debug\netcoreapp2.1\Elavator.UI.pdb
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.UI.csproj.CoreCompileInputs.cache
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.UI.AssemblyInfoInputs.cache
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.UI.AssemblyInfo.cs
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.UI.dll
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.UI.pdb
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.UI.csprojAssemblyReference.cache

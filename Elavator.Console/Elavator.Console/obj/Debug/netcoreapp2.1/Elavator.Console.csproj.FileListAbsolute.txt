@@ -1,0 +1,4 @@
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.Console.csprojAssemblyReference.cache
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.Console.csproj.CoreCompileInputs.cache
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.Console.AssemblyInfoInputs.cache
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Console\obj\Debug\netcoreapp2.1\Elavator.Console.AssemblyInfo.cs
