@@ -1,0 +1,8 @@
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Lib\obj\Debug\netstandard2.0\Elavator.Lib.csproj.CoreCompileInputs.cache
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Lib\obj\Debug\netstandard2.0\Elavator.Lib.AssemblyInfoInputs.cache
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Lib\obj\Debug\netstandard2.0\Elavator.Lib.AssemblyInfo.cs
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Lib\bin\Debug\netstandard2.0\Elavator.Lib.deps.json
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Lib\bin\Debug\netstandard2.0\Elavator.Lib.dll
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Lib\bin\Debug\netstandard2.0\Elavator.Lib.pdb
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Lib\obj\Debug\netstandard2.0\Elavator.Lib.dll
+C:\Users\nkrishna\Documents\Visual Studio 2017\Projects\Elavator.Console\Elavator.Lib\obj\Debug\netstandard2.0\Elavator.Lib.pdb
